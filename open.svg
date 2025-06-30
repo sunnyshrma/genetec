@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+  <script type="text/javascript">
+    window.location.href = "https://evil.com";
+  </script>
+</svg>
